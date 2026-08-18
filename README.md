@@ -422,24 +422,6 @@ The displayed payroll values should not be interpreted as actual current or hist
 
 ---
 
-## Dashboard Preview
-
-The Power BI dashboard provides an executive-style payroll overview with KPI cards, payroll trends, organizational analysis, workforce headcount, contribution breakdowns, and employee-level filtering.
-
-Add screenshots to this section when publishing the repository:
-
-```markdown
-![Payroll Dashboard Overview](screenshots/dashboard-overview.png)
-
-![Payroll Cost Center Analysis](screenshots/cost-center-analysis.png)
-
-![Payroll Department Analysis](screenshots/department-analysis.png)
-
-![Employee Details](screenshots/employee-details.png)
-```
-
----
-
 ## Purpose
 
 This project was developed as a **portfolio and proof-of-concept business intelligence project** to demonstrate how sensitive payroll data can be transformed into a privacy-conscious analytical dataset while retaining enough structure for meaningful payroll and workforce reporting.
